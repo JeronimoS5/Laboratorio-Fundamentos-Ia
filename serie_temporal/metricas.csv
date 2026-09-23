@@ -1,0 +1,3 @@
+modelo,MAE,RMSE
+Baseline (persistencia),1.309,1.594
+Regresión lineal,1.078,1.351
