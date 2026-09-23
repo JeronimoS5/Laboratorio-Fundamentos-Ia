@@ -1,0 +1,7 @@
+
+Componente 4:
+requests
+pandas
+numpy
+matplotlib
+scikit-learn
